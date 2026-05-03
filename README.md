@@ -3,6 +3,8 @@ Planets". [Citation here](https://ssd.jpl.nasa.gov/txt/aprx_pos_planets.pdf)
 
 I think it is fun and worth sharing.
 
+![the sky](sky.png)
+
 ```
 ## Dependencies
 - libncursesw (wide-character ncurses)
